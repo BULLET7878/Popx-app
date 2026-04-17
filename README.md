@@ -1,10 +1,10 @@
 # PopX React Assignment
 
 ## 🚀 Live Demo
-https://your-vercel-link.vercel.app
+https://popx-app-lac.vercel.app
 
 ## 📂 GitHub Repo
-https://github.com/yourusername/popx-react-assignment
+https://github.com/BULLET7878/Popx-app.git
 
 ## 📱 Features
 - Landing Page
