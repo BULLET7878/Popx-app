@@ -53,7 +53,12 @@ function Login() {
     validate('email');
     validate('password');
     if (isFormReady) {
-      navigate('/profile');
+      navigate('/profile', { 
+        state: { 
+          name: formData.email.split('@')[0], 
+          email: formData.email 
+        } 
+      });
     }
   };
 
